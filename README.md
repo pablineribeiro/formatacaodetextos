@@ -13,6 +13,7 @@ opções de formatação de textos em html
 	<body>
 	 <h2>Mapa do Site</h2>
 	 <ul type="square">
+		 <!--circle,square,disc -->
 	 	<li>Home</li>
 	 	<li>Quem Somos</li>
 	 	<li>Contatos</li>
